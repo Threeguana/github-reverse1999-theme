@@ -5,16 +5,16 @@
 // @description  Github Reverse1999 wannabe with a bit animations
 // @author       Threeguana
 // @match        https://github.com/*
-// @updateURL    https://raw.githubusercontent.com/UsernameKamu/NamaRepoKamu/main/reverse1999-theme.user.js
-// @downloadURL  https://raw.githubusercontent.com/UsernameKamu/NamaRepoKamu/main/reverse1999-theme.user.js
+// @updateURL    https://github.com/Threeguana/github-reverse1999-theme/raw/refs/heads/main/Reverse1999.user.js
+// @downloadURL  https://github.com/Threeguana/github-reverse1999-theme/raw/refs/heads/main/Reverse1999.user.js
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
 
 (function () {
-  'use strict';
+    'use strict';
 
-  GM_addStyle(`
+    GM_addStyle(`
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English:ital@0;1&family=Crimson+Pro:wght@300;400;500&display=swap');
 
     :root, [data-color-mode] {

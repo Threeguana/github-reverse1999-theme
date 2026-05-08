@@ -23,7 +23,7 @@ To use this theme, you need a userscript manager extension installed in your bro
 
 ### Step 1: Install a Userscript Manager
 Choose one of the following based on your browser:
-* **Chrome / Edge / Brave:** [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+* **Chrome / Edge / Brave:** [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (I didn't try it at violentmonkey yet so idk)
 * **Firefox:** [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
 ### Step 2: Install the Theme
