@@ -29,7 +29,7 @@ Choose one of the following based on your browser:
 ### Step 2: Install the Theme
 Once your extension is ready, simply click the link below to install the script automatically:
 
-**[Click Here to Install the Theme](https://raw.githubusercontent.com/Threeguana/github-reverse1999-theme/main/reverse1999-theme.user.js)**
+**[Click Here to Install the Theme](https://github.com/Threeguana/github-reverse1999-theme/raw/refs/heads/main/Reverse1999.user.js)**
 
 *(Note: The userscript manager will open a new tab asking for your confirmation. Click **Install** to apply the script.)*
 
